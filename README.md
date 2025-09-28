@@ -99,7 +99,7 @@ To begin utilizing this application, follow these steps:
 3. Run the Jupyter Notebook:
 
    ```bash
-   Fake_News_NLP.ipynb
+   Student Score.ipynb
 
 4. Launch the Streamlit app:
    
