@@ -120,5 +120,5 @@ To begin utilizing this application, follow these steps:
 
 * Pic 2
 
-![Screenshot 2024-11-05 at 7 07 24 pm](https://github.com/user-attachments/assets/dc72517b-44d4-4648-ae54-f95e0a80b0cb)
+<img width="995" height="521" alt="Image" src="https://github.com/user-attachments/assets/6c14b475-ea9e-4cb9-9095-768e8f19b0d6" />
    
