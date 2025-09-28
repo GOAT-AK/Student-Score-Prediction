@@ -1,12 +1,13 @@
 # Student-Score-Prediction
-This project focuses on predicting students’ exam performance based on multiple academic, personal, and socio-economic factors. Using machine learning (Linear Regression)
+This project focuses on predicting students’ exam performance based on multiple academic, personal, and socio-economic factors. Using Linear Regression.
 
 # Table of Content
 
 * [Brief](#Brief)  
 * [DataSet](#DataSet)  
 * [How_It_Works](#How_It_Works)  
-* [Tools](#Tools)  
+* [Tools](#Tools)
+* [Model_Performance](#Model_Performance)  
 * [Remarks](#Remarks)  
 * [Usage](#Usage)  
 * [Sample_Run](#Sample_Run)
@@ -72,6 +73,18 @@ IV. matplotlib, seaborn
 V. scikit-learn  
 VI. pickle  
 VII. Streamlit 
+
+
+# Model_Performance
+
+The Linear Regression model was trained to predict exam scores.  
+Evaluation on the test set showed:  
+
+- **MAE (Mean Absolute Error):** 0.879  
+- **RMSE (Root Mean Squared Error):** 1.097  
+- **R² Score:** 0.879  
+
+These results indicate that the model makes predictions with high accuracy and generalizes well on unseen data.
 
 
 
