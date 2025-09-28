@@ -112,7 +112,7 @@ To begin utilizing this application, follow these steps:
 
 * Pic 1
 
-![Screenshot 2024-11-05 at 7 06 57 pm](https://github.com/user-attachments/assets/86104ec7-8710-4e6d-ac92-b7188daa7c42)
+<img width="1042" height="654" alt="Image" src="https://github.com/user-attachments/assets/ded84ee9-f1cc-47b4-be25-6c1cb24e4e0a" />
 
 
 <hr>
