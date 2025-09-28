@@ -59,7 +59,7 @@ The dataset used in this project is the [Student Performance Factors](https://ww
 
 - Load and clean the dataset (handle missing values, encode categorical features, scale numerical ones).  
 - Perform **Exploratory Data Analysis (EDA)** and run **ANOVA tests** to check feature importance.  
-- Train a **Linear Regression model** and evaluate it with **MAE, RMSE, R², and accuracy**.  
+- Train a **Linear Regression model** and evaluate it with **MAE, RMSE, and R²**.  
 - Save the model, scaler, and encoders using **pickle**.  
 - Deploy a **Streamlit web app** where users input student details and get real-time predictions.
 
