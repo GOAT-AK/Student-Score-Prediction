@@ -18,10 +18,6 @@ This project focuses on predicting students’ exam performance based on multipl
 With the growing emphasis on data-driven education, predicting students’ performance can provide valuable insights for teachers, parents, and institutions.  
 This project builds a **machine learning model** to predict student exam scores based on academic, personal, and socio-economic factors.
 
-The goal is to help in:  
-- Early identification of students at risk  
-- Personalized study recommendations  
-- Data-supported educational planning
 
 
 # DataSet
